@@ -1,0 +1,18 @@
+# Slots
+#
+# cover
+
+garage door
+garage door switch, garage door switches, garage switch, garage switches
+test
+window
+blinds
+living room blinds
+dining room blinds
+
+# Training Examples
+
+open the [dining room blinds](cover)
+open the [garage door](cover)
+open [living room blinds](cover)
+open [garage door](cover)
