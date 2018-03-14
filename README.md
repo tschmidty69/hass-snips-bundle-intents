@@ -1,6 +1,6 @@
 # Snips Intents for HomeAssistant
 
-These are [Snips](https://github.com/snipsco/snips-platform-documentation/wiki) intent definitions for use with [HomeAssistant](https://home-assistant.io/). These are used to create the HomeAsssitant bundle available on the snips console.
+These are [Snips](https://github.com/snipsco/snips-platform-documentation/wiki) english intent definitions for use with [HomeAssistant](https://home-assistant.io/). These are used to create the HomeAsssitant bundle available on the snips console.
 
 The given values can also be imported into the snips console to create your own intents.
 
