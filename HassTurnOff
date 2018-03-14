@@ -1,0 +1,53 @@
+# Slots
+#
+# Name
+light, lights
+switch, switches
+media player, media players
+bedroom light, bedroom lights
+outside light, outside lights
+living room light, living room lights
+kitchen light, kitchen lights
+garage door
+foyer light, foyer lights
+garage door switch, garage door switches, garage switch, garage switches
+entryway light, entryway light
+kitchen switch, kitchen switches
+tv
+living room tv
+bedroom tv
+master bedroom tv
+test light
+bedroom
+son
+daughter
+upstairs
+downstairs
+basement
+test
+outside
+door
+front door
+window
+back
+back window
+front window
+back door
+garage door
+blinds
+living room blinds
+dining room blinds
+
+
+# Training Examples
+
+turn [tv](name) off
+turn off the [outside lights](name)
+turn off the [kitchen lights](name)
+turn the [garage door switch](name) off
+turn the [master bedroom tv](name) off
+turn off [living room lights](name)
+turn off [light](name)
+turn [lights](name) off
+turn [media player](name) off
+turn [switch](name) off
