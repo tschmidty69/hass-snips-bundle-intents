@@ -1,0 +1,20 @@
+# Slotes
+#
+# cover
+
+garage door
+garage door switch, garage door switches, garage switch, garage switches
+test
+window
+blinds
+living room blinds
+dining room blinds
+
+# Training Examples
+
+Close the [blinds](cover)
+Close [dining room blinds](cover)
+Close the [living room blinds](cover)
+Close [blinds](cover)
+Close the [garage door](cover)
+Close [garage door](cover)
