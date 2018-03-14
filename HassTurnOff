@@ -1,6 +1,7 @@
 # Slots
 #
-# Name
+# name
+
 light, lights
 switch, switches
 media player, media players
@@ -37,7 +38,6 @@ garage door
 blinds
 living room blinds
 dining room blinds
-
 
 # Training Examples
 
