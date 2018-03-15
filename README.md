@@ -4,4 +4,4 @@ These are [Snips](https://github.com/snipsco/snips-platform-documentation/wiki) 
 
 The given values can also be imported into the snips console to create your own intents.
 
-Please propose edits on the [wiki](https://github.com/tschmidty69/hass-snips-bundle-intents-en/wiki) pages.
+Please propose edits on the [wiki](https://github.com/tschmidty69/hass-snips-bundle-intents/wiki) pages.
